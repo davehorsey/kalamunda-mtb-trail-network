@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "ad71511be2b93240",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff45a154c3e7bd4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Area of Interest.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93cd68f1a2c48052",
+    "type": "split",
+    "children": [
+      {
+        "id": "96c6f7431188e45d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "737953133d9e0eae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74973574537cca7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f03232533e63636",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8ad9b66f7f4156f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d542d80ed368739",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Area of Interest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Area of Interest.md",
+    "Kalamunda MTB Network.md",
+    "OSM Export.md",
+    "ToDo.md",
+    "Untitled.md",
+    "Area of Interes.md",
+    "Area of Interest Extents.md"
+  ]
+}
