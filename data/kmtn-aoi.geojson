@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kmtn-aoi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7850" } },
+"features": [
+{ "type": "Feature", "properties": { "version": 1, "isCurrent": true, "createDate": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 414500.0, 6464500.0 ], [ 420500.0, 6464500.0 ], [ 420500.0, 6460000.0 ], [ 414500.0, 6460000.0 ], [ 414500.0, 6464500.0 ] ] ] } }
+]
+}
