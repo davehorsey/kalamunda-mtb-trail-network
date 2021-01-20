@@ -1,0 +1,11 @@
+#!/bin/sh
+
+ogr2ogr \
+    -f PostgreSQL PG:"host=localhost user=dave password=dave \
+    dbname=kal_mtb" ./data/osm-export.geojson \
+    -nln mtb_trails -lco GEOMETRY_NAME=geom
+
+ogr2ogr \
+    -f PostgreSQL PG:"host=localhost user=dave password=dave \
+    dbname=kal_mtb" ./data/kmtn-aoi.geojson \
+    -nln mtb_trails_aoi -lco GEOMETRY_NAME=geom
