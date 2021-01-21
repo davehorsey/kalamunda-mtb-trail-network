@@ -1,11 +1,11 @@
 # kalamunda-mtb-trail-network
 
-## Objectives
+## Objectives
 
 1. Create MTB trail network for Kalamunda with turn restrictions and directionality
 
 
-## Description
+## Description
 
 I'm doing this project to gain experience with:
 
